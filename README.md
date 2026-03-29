@@ -2,7 +2,7 @@
 
 ## About me
 
-My name is Patryk. I love outdoor sports and photography. Exploring nature and capturing its beauty through my lens are two of my greatest passions. Whether I am hiking, cycling, or simply walking in the woods, I find joy in every moment spent outdoors. My camera is a faithful companion on these adventures, helping me preserve those breathtaking moments in time. I am a nature enthusiast and photographer at heart.
+My name is Pat. I love outdoor sports and photography. Exploring nature and capturing its beauty through my lens are two of my greatest passions. Whether I am hiking, cycling, or simply walking in the woods, I find joy in every moment spent outdoors. My camera is a faithful companion on these adventures, helping me preserve those breathtaking moments in time. I am a nature enthusiast and photographer at heart.
 
 
 
@@ -33,4 +33,3 @@ Markdown supports different levels of headers:
 ## Header 2
 ### Header 3
 #### Header 4
-
